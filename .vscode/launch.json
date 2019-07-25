@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Conditionals",
+      "request": "launch",
+      "mainClass": "Conditionals",
+      "projectName": "examples_ec0d87d5"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Concatenation",
+      "request": "launch",
+      "mainClass": "Concatenation",
+      "projectName": "examples_ec0d87d5"
+    }
+  ]
+}
