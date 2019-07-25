@@ -43,5 +43,5 @@ public class Conditionals {
         System.out.println(num - 1);
         break;
     }
-  }  
+  }
 }
