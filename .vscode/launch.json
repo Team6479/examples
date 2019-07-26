@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Methods",
+      "request": "launch",
+      "mainClass": "Methods",
+      "projectName": "examples_ec0d87d5"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "examples_ec0d87d5"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Conditionals",
       "request": "launch",
       "mainClass": "Conditionals",
